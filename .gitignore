@@ -171,4 +171,5 @@ cython_debug/
 .pypirc
 
 
-zzz.txt
+zzz.txt/
+artifact/
